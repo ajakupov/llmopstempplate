@@ -43,7 +43,7 @@ item: {{item.title}}
 content: {{item.content}}
 {% endfor %}
 
-Make sure to reference any documents used in the response.
+Make sure to reference any documents used in the response. Provide your answers in French
 
 # question
 {{question}}
